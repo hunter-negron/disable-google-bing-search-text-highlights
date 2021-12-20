@@ -204,7 +204,8 @@
         "https://www.google.co.za/search?*",
         "https://www.google.co.zm/search?*",
         "https://www.google.co.zw/search?*",
-        "https://www.google.cat/search?*"
+        "https://www.google.cat/search?*",
+        "https://www.bing.com/search?*"
       ],
       "js": [
         "scripts/index.js"
